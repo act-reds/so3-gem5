@@ -1,0 +1,3 @@
+# Include rules from subfolders
+/u-boot/.gitignore
+/so3/.gitignore
